@@ -1,0 +1,13 @@
+.padding-override {
+    padding: 0 15px !important;
+}
+
+.required {
+    color: #ff0000;
+    font-weight: bold;
+}
+
+#captcha {
+    width: 100px !important;
+    display: inline-block !important;
+}
